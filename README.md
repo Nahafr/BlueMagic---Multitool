@@ -1,1 +1,1 @@
-50 star for the src
+Download the release and star bluemagic.exe
