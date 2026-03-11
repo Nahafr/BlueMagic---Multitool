@@ -1,1 +1,1 @@
-Download the release and star bluemagic.exe
+Star svp
